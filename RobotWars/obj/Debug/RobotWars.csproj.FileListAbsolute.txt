@@ -1,0 +1,12 @@
+C:\BNP\RobotWars\RobotWars\bin\Debug\RobotWars.exe.config
+C:\BNP\RobotWars\RobotWars\bin\Debug\RobotWars.exe
+C:\BNP\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.Properties.Resources.resources
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.csproj.GenerateResource.Cache
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.exe
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.InputForm.resources
+C:\BNP\RobotWars\RobotWars\bin\Debug\RobotWars.Business.dll
+C:\BNP\RobotWars\RobotWars\bin\Debug\RobotWars.Business.pdb
+C:\BNP\RobotWars\RobotWars\obj\Debug\RobotWars.OutputForm.resources

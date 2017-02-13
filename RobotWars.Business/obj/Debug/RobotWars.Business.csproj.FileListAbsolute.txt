@@ -1,0 +1,5 @@
+C:\BNP\RobotWars\RobotWars.Business\obj\Debug\RobotWars.Business.csprojResolveAssemblyReference.cache
+C:\BNP\RobotWars\RobotWars.Business\bin\Debug\RobotWars.Business.dll
+C:\BNP\RobotWars\RobotWars.Business\bin\Debug\RobotWars.Business.pdb
+C:\BNP\RobotWars\RobotWars.Business\obj\Debug\RobotWars.Business.dll
+C:\BNP\RobotWars\RobotWars.Business\obj\Debug\RobotWars.Business.pdb
